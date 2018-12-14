@@ -1,0 +1,39 @@
+
+Project Folder: blog.zip
+
+DB File: new_laravel.sql
+
+
+Project Url:  http://localhost/blog/public/login
+
+it will land on login page can register new user there.
+
+Only one admin user
+username:neerajnairnrj777@gmail.com
+password:Pass@123
+
+1. Dashboard
+
+2. Admin List : which will List the normal User's And Edit them and change there password's.
+
+3. Admin/Login user can change their password on top right corner.
+
+4. Also the option to logout is given on top right corner.
+
+5. Product List Where user can see the added products.
+
+6. Can add the Product by Clicking add product button
+
+7. Also Edit or delete the Product details.
+
+8. View Image option is to check the multiple image uploaded.
+
+9. Also there is an option to delete each image.
+
+Notes:
+
+1. Delete functionalities are done by ajax.
+
+2. Used mysql and laravel
+
+3. password change has jquery validation with indication.
